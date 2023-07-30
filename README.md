@@ -13,24 +13,6 @@
 - Quick Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
 - Heap Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
 
-## Color Codes
-
-🟧 `Randomized Array` <br><br>
-🟥 and 🟦 `Key comparisons` <br><br>
-🟩 `Sorted Array` <br><br>
-
-## Sorting Visualizer Interface
-> ## Landing Interface
-![Default](https://user-images.githubusercontent.com/52111635/168355863-32b1f641-d6bd-479f-a929-79f05d648358.png)
-
-<br />
-
-> ## Sorted Array
-![Quick Sort](https://user-images.githubusercontent.com/52111635/168356389-5ee4da1e-f4c7-4f3d-bf57-e036f752efe3.png)
-
-<br />
-
-
 ## To run this app locally
 - Download or clone this repo
 - In the project directory, run:
